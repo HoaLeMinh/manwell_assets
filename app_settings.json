@@ -1,0 +1,16 @@
+{
+    "numOfPhotos": 3,
+    "shootDelay": 3,
+    "reShootDelay": 5,
+
+    "rotatePhotoDegree": 0,
+    "ccapiUrl": "waiting",
+    
+    "-Email-Settings-":"------------------ Email -----------------",
+    
+    "fromEmail": "photopiccell@gmail.com",
+    "toEmail": "hoa.le.minh@outlook.com",
+    "subject": "Mobile Photo Booth",
+    "logoUrl": "https://cdn.statically.io/gh/HoaLeMinh/manwell_assets/master/logo.png",
+    "emailTemplateUrl": "https://raw.githack.com/HoaLeMinh/manwell_assets/master/EmailTemplate.html"
+}
