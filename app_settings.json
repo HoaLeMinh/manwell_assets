@@ -4,12 +4,12 @@
     "reShootDelay": 5,
 
     "rotatePhotoDegree": 0,
-    "ccapiUrl": "waiting",
+    "ccapiUrl": "http://192.168.1.2:8080/ccapi",
     
     "-Email-Settings-":"------------------ Email -----------------",
     
     "fromEmail": "photopiccell@gmail.com",
-    "toEmail": "hoa.le.minh@outlook.com",
+    "toEmail": "photopiccell@gmail.com",
     "subject": "Mobile Photo Booth",
     "logoUrl": "https://cdn.statically.io/gh/HoaLeMinh/manwell_assets/master/logo.png",
     "emailTemplateUrl": "https://raw.githack.com/HoaLeMinh/manwell_assets/master/EmailTemplate.html"
