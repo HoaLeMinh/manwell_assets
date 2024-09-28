@@ -11,6 +11,6 @@
     "fromEmail": "photopiccell@gmail.com",
     "toEmail": "photopiccell@gmail.com",
     "subject": "Mobile Photo Booth",
-    "logoUrl": "https://cdn.statically.io/gh/HoaLeMinh/manwell_assets/master/logo.png",
+    "logoUrl": "https://raw.githubusercontent.com/HoaLeMinh/manwell_assets/master/logo.png",
     "emailTemplateUrl": "https://raw.githack.com/HoaLeMinh/manwell_assets/master/EmailTemplate.html"
 }
