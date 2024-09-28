@@ -8,9 +8,10 @@
     
     "-Email-Settings-":"------------------ Email -----------------",
     
-    "fromEmail": "photopiccell@gmail.com",
-    "toEmail": "photopiccell@gmail.com",
-    "subject": "Mobile Photo Booth",
+    "senderEmail": "photopiccell@gmail.com",
+    "senderPassword": "bnfhuvnpcezwcktf",
+    "toEmail": "duyanh@pic-cell.net",
+    "subject": "Kangjin Photo Booth",
     "logoUrl": "https://raw.githubusercontent.com/HoaLeMinh/manwell_assets/master/logo.png",
     "emailTemplateUrl": "https://raw.githack.com/HoaLeMinh/manwell_assets/master/EmailTemplate.html"
 }
