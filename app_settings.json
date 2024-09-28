@@ -12,6 +12,6 @@
     "senderPassword": "bnfhuvnpcezwcktf",
     "toEmail": "duyanh@pic-cell.net",
     "subject": "Kangjin Photo Booth",
-    "logoUrl": "https://raw.githubusercontent.com/HoaLeMinh/manwell_assets/master/logo.png",
-    "emailTemplateUrl": "https://raw.githack.com/HoaLeMinh/manwell_assets/master/EmailTemplate.html"
+    "logoUrl": "https://cdn.jsdelivr.net/gh/HoaLeMinh/manwell_assets@master/kangjin-logo.png",
+    "emailTemplateUrl": "https://cdn.jsdelivr.net/gh/HoaLeMinh/manwell_assets@master/EmailTemplate.html"
 }
