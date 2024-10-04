@@ -13,5 +13,9 @@
     "toEmail": "Mediakangjin@gmail.com",
     "subject": "Kangjin Photo Booth",
     "logoUrl": "https://cdn.jsdelivr.net/gh/HoaLeMinh/manwell_assets@master/kangjin-logo.png",
-    "emailTemplateUrl": "https://cdn.jsdelivr.net/gh/HoaLeMinh/manwell_assets@master/EmailTemplate.html"
+    "emailTemplateUrl": "https://cdn.jsdelivr.net/gh/HoaLeMinh/manwell_assets@master/EmailTemplate.html",
+
+    "-Drive-Settings-":"------------------ Google Drive -----------------",
+    "gDriveId": "",
+    "gDriveBaseFolderId": ""
 }
